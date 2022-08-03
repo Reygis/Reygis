@@ -1,5 +1,5 @@
 <p align="left">Hello World!!</p>
-<p align="left">I'm Reygis, a front-end development student with a strong desire to learn</p>
+<p align="left">I'm Reygis, a full-stack development student with a strong desire to learn</p>
 <h1></h1>
 
 
