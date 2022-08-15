@@ -1,6 +1,10 @@
 <p align="left">Hello World!!</p>
-<p align="left">I'm Reygis, a full-stack development student with a strong desire to learn</p>
-<h1></h1>
+<p align="left">more at LinkedIn : <a href="https://www.linkedin.com/in/reygis/">LinkedIn</a> </p>
+###
+<h1>Front End</h1>
+
+###
+<h1>Back End</h1>
 
 
 ###
