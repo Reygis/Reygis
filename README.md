@@ -1,9 +1,9 @@
 <p align="left">Hello World!!</p>
-<p align="left">more at LinkedIn : <a href="https://www.linkedin.com/in/reygis/">LinkedIn</a> </p>
-###
+<a href="https://www.linkedin.com/in/reygis/">LinkedIn</a>
+
 <h1>Front End</h1>
 
-###
+
 <h1>Back End</h1>
 
 
