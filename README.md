@@ -1,10 +1,6 @@
 <p align="left">Hello World!!</p>
 <a href="https://www.linkedin.com/in/reygis/">LinkedIn</a>
 
-<h1>Front End</h1>
-
-
-<h1>Back End</h1>
 
 
 ###
